@@ -25,7 +25,9 @@ Python 3.7+
 2. Install dependencies:
 
 pip install SpeechRecognition
+
 pip install pipwin
+
 pip install pyaudio
 
 ## Change Language
